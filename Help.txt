@@ -1,0 +1,4 @@
+Package Manager Console 
+Scaffold-DbContext "Server=DESKTOP-33O0MRR;Database=EmealOrder;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context EmealContext  -ContextDir Data  -f
+
+URF.Core.EF.Trackable.Entity // My Handlebars Helper
